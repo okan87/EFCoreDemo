@@ -1,0 +1,2 @@
+# EFCoreDemo
+Entity Framework(DBCRUD)
